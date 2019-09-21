@@ -1,7 +1,6 @@
 package map;
 
 import set.FileOperation;
-
 import java.util.ArrayList;
 
 public class LinkedListMap<K,V> implements Map<K,V> {
