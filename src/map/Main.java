@@ -1,5 +1,6 @@
 package map;
 
+import AVLTree.AVLMap;
 import set.FileOperation;
 
 import java.util.ArrayList;
@@ -34,5 +35,9 @@ public class Main {
         LinkedListMap<String,Integer> linkedListMap=new LinkedListMap<>();
         double time2 =testMap(linkedListMap,filename);
         System.out.println("Linked List Map: "+ time2+" s");
+        System.out.println();
+        AVLMap<String,Integer> avlMap=new AVLMap<String,Integer>();
+        double time3 =testMap(avlMap,filename);
+        System.out.println("AVL Map: "+ time3+" s");
     }
 }
