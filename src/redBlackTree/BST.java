@@ -1,10 +1,11 @@
-package AVLTree;
+package redBlackTree;
 
 import set.FileOperation;
 
 import java.util.ArrayList;
 
 public class BST<K extends Comparable<K>, V> {
+
     private class Node{
         public K key;
         public V value;
@@ -176,7 +177,7 @@ public class BST<K extends Comparable<K>, V> {
         if(FileOperation.readFile("pride-and-prejudice.txt", words)) {
             System.out.println("Total words: " + words.size());
 
-            BST<String, Integer> map = new BST<String, Integer>();
+            BST<String, Integer> map = new BST<>();
             for (String word : words) {
                 if (map.contains(word))
                     map.set(word, map.get(word) + 1);
