@@ -17,7 +17,7 @@ Last Updated: March 4, 2018
 
 Language: English
 
-Character set encoding: UTF-8
+Character lineAndTree.set encoding: UTF-8
 
 *** START OF THIS PROJECT GUTENBERG EBOOK A TALE OF TWO CITIES ***
 
@@ -166,7 +166,7 @@ it, terrible in history. It is likely enough that in the rough outhouses
 of some tillers of the heavy lands adjacent to Paris, there were
 sheltered from the weather that very day, rude carts, bespattered with
 rustic mire, snuffed about by pigs, and roosted in by poultry, which
-the Farmer, Death, had already set apart to be his tumbrils of
+the Farmer, Death, had already lineAndTree.set apart to be his tumbrils of
 the Revolution. But that Woodman and that Farmer, though they work
 unceasingly, work silently, and no one heard them as they went about
 with muffled tread: the rather, forasmuch as to entertain any suspicion
@@ -357,7 +357,7 @@ Our booked passenger showed in a moment that it was his name. The guard,
 the coachman, and the two other passengers eyed him distrustfully.
 
 “Keep where you are,” the guard called to the voice in the mist,
-“because, if I should make a mistake, it could never be set right in
+“because, if I should make a mistake, it could never be lineAndTree.set right in
 your lifetime. Gentleman of the name of Lorry answer straight.”
 
 “What is the matter?” asked the passenger, then, with mildly quavering
@@ -663,7 +663,7 @@ from London in winter was an achievement to congratulate an adventurous
 traveller upon.
 
 By that time, there was only one adventurous traveller left be
-congratulated: for the two others had been set down at their respective
+congratulated: for the two others had been lineAndTree.set down at their respective
 roadside destinations. The mildewy inside of the coach, with its damp
 and dirty straw, its disagreeable smell, and its obscurity, was rather
 like a larger dog-kennel. Mr. Lorry, the passenger, shaking himself out
@@ -795,7 +795,7 @@ ever to be found in an elderly gentleman of a fresh complexion who has
 got to the end of a bottle, when a rattling of wheels came up the narrow
 street, and rumbled into the inn-yard.
 
-He set down his glass untouched. “This is Mam'selle!” said he.
+He lineAndTree.set down his glass untouched. “This is Mam'selle!” said he.
 
 In a very few minutes the waiter came in to announce that Miss Manette
 had arrived from London, and would be happy to see the gentleman from
@@ -1187,7 +1187,7 @@ shaking of hands, and even joining of hands and dancing, a dozen
 together. When the wine was gone, and the places where it had been
 most abundant were raked into a gridiron-pattern by fingers, these
 demonstrations ceased, as suddenly as they had broken out. The man who
-had left his saw sticking in the firewood he was cutting, set it in
+had left his saw sticking in the firewood he was cutting, lineAndTree.set it in
 motion again; the women who had left on a door-step the little pot of
 hot ashes, at which she had been trying to soften the pain in her own
 starved fingers and toes, or in those of her child, returned to it; men
@@ -1313,7 +1313,7 @@ the elbows. Neither did he wear anything more on his head than his own
 crisply-curling short dark hair. He was a dark man altogether, with good
 eyes and a good bold breadth between them. Good-humoured looking on
 the whole, but implacable-looking, too; evidently a man of a strong
-resolution and a set purpose; a man not desirable to be met, rushing
+resolution and a lineAndTree.set purpose; a man not desirable to be met, rushing
 down a narrow pass with a gulf on either side, for nothing would turn
 the man.
 
@@ -2413,7 +2413,7 @@ dock at my Lord Chief Justice himself, and pulled him off the bench. It
 had more than once happened, that the Judge in the black cap pronounced
 his own doom as certainly as the prisoner's, and even died before him.
 For the rest, the Old Bailey was famous as a kind of deadly inn-yard,
-from which pale travellers set out continually, in carts and coaches, on
+from which pale travellers lineAndTree.set out continually, in carts and coaches, on
 a violent passage into the other world: traversing some two miles and a
 half of public street and road, and shaming few good citizens, if any.
 So powerful is use, and so desirable to be good use in the beginning. It
@@ -2877,7 +2877,7 @@ care of him. There were no other passengers that night, but we four.
 The prisoner was so good as to beg permission to advise me how I could
 shelter my father from the wind and weather, better than I had done. I
 had not known how to do it well, not understanding how the wind would
-set when we were out of the harbour. He did it for me. He expressed
+lineAndTree.set when we were out of the harbour. He did it for me. He expressed
 great gentleness and kindness for my father's state, and I am sure he
 felt it. That was the manner of our beginning to speak together.”
 
@@ -3841,7 +3841,7 @@ fact.
 Although the Doctor's daughter had known nothing of the country of her
 birth, she appeared to have innately derived from it that ability to
 make much of little means, which is one of its most useful and most
-agreeable characteristics. Simple as the furniture was, it was set off
+agreeable characteristics. Simple as the furniture was, it was lineAndTree.set off
 by so many little adornments, of no value but for their taste and fancy,
 that its effect was delightful. The disposition of everything in the
 rooms, from the largest object to the least; the arrangement of colours,
@@ -4061,7 +4061,7 @@ her possessing such a thing.
 The corner has been mentioned as a wonderful corner for echoes; it
 had begun to echo so resoundingly to the tread of coming feet, that it
 seemed as though the very mention of that weary pacing to and fro had
-set it going.
+lineAndTree.set it going.
 
 “Here they are!” said Miss Pross, rising to break up the conference;
 “and now we shall have hundreds of people pretty soon!”
@@ -4270,7 +4270,7 @@ interval in crash, and fire, and rain, until after the moon rose at
 midnight.
 
 The great bell of Saint Paul's was striking one in the cleared air, when
-Mr. Lorry, escorted by Jerry, high-booted and bearing a lantern, set
+Mr. Lorry, escorted by Jerry, high-booted and bearing a lantern, lineAndTree.set
 forth on his return-passage to Clerkenwell. There were solitary patches
 of road on the way between Soho and Clerkenwell, and Mr. Lorry, mindful
 of foot-pads, always retained Jerry for this service: though it was
@@ -4306,7 +4306,7 @@ strong men besides the Cook.
 
 Yes. It took four men, all four ablaze with gorgeous decoration, and the
 Chief of them unable to exist with fewer than two gold watches in his
-pocket, emulative of the noble and chaste fashion set by Monseigneur, to
+pocket, emulative of the noble and chaste fashion lineAndTree.set by Monseigneur, to
 conduct the happy chocolate to Monseigneur's lips. One lacquey carried
 the chocolate-pot into the sacred presence; a second, milled and frothed
 the chocolate with the little instrument he bore for that function;
@@ -4479,7 +4479,7 @@ dust from his feet, and quietly walked downstairs.
 
 He was a man of about sixty, handsomely dressed, haughty in manner, and
 with a face like a fine mask. A face of a transparent paleness; every
-feature in it clearly defined; one set expression on it. The nose,
+feature in it clearly defined; one lineAndTree.set expression on it. The nose,
 beautifully formed otherwise, was very slightly pinched at the top
 of each nostril. In those two compressions, or dints, the only little
 change that the face ever showed, resided. They persisted in changing
@@ -5284,7 +5284,7 @@ for three heavy hours; for three heavy hours, the horses in the stables
 rattled at their racks, the dogs barked, and the owl made a noise with
 very little resemblance in it to the noise conventionally assigned to
 the owl by men-poets. But it is the obstinate custom of such creatures
-hardly ever to say what is set down for them.
+hardly ever to say what is lineAndTree.set down for them.
 
 For three heavy hours, the stone faces of the chateau, lion and human,
 stared blindly at the night. Dead darkness lay on all the landscape,
@@ -6602,7 +6602,7 @@ his medical adviser--a distinguished surgeon--on his way back.
 
 Young Jerry relieved his father with dutiful interest, and reported No
 job in his absence. The bank closed, the ancient clerks came out, the
-usual watch was set, and Mr. Cruncher and his son went home to tea.
+usual watch was lineAndTree.set, and Mr. Cruncher and his son went home to tea.
 
 “Now, I tell you where it is!” said Mr. Cruncher to his wife, on
 entering. “If, as a honest tradesman, my wenturs goes wrong to-night, I
@@ -6814,7 +6814,7 @@ There was no fish for breakfast, and not much of anything else. Mr.
 Cruncher was out of spirits, and out of temper, and kept an iron pot-lid
 by him as a projectile for the correction of Mrs. Cruncher, in case
 he should observe any symptoms of her saying Grace. He was brushed
-and washed at the usual hour, and set off with his son to pursue his
+and washed at the usual hour, and lineAndTree.set off with his son to pursue his
 ostensible calling.
 
 Young Jerry, walking with the stool under his arm at his father's side
@@ -6929,7 +6929,7 @@ Jacques. I met him--by accident--a day and half's journey out of Paris.
 He is a good child, this mender of roads, called Jacques. Give him to
 drink, my wife!”
 
-A second man got up and went out. Madame Defarge set wine before the
+A second man got up and went out. Madame Defarge lineAndTree.set wine before the
 mender of roads called Jacques, who doffed his blue cap to the company,
 and drank. In the breast of his blouse he carried some coarse dark
 bread; he ate of this between whiles, and sat munching and drinking near
@@ -7224,7 +7224,7 @@ very simple; is he not a little dangerous?”
 
 “He knows nothing,” said Defarge; “at least nothing more than would
 easily elevate himself to a gallows of the same height. I charge myself
-with him; let him remain with me; I will take care of him, and set him
+with him; let him remain with me; I will take care of him, and lineAndTree.set him
 on his road. He wishes to see the fine world--the King, the Queen, and
 Court; let him see them on Sunday.”
 
@@ -7319,15 +7319,15 @@ it made a show and a noise. Say! Would you not?”
 
 “Truly, madame, I think so. For the moment.”
 
-“If you were shown a great heap of dolls, and were set upon them to
+“If you were shown a great heap of dolls, and were lineAndTree.set upon them to
 pluck them to pieces and despoil them for your own advantage, you would
 pick out the richest and gayest. Say! Would you not?”
 
 “Truly yes, madame.”
 
 “Yes. And if you were shown a flock of birds, unable to fly, and were
-set upon them to strip them of their feathers for your own advantage,
-you would set upon the birds of the finest feathers; would you not?”
+lineAndTree.set upon them to strip them of their feathers for your own advantage,
+you would lineAndTree.set upon the birds of the finest feathers; would you not?”
 
 “It is true, madame.”
 
@@ -7510,7 +7510,7 @@ my soul, that we shall see the triumph. But even if not, even if I knew
 certainly not, show me the neck of an aristocrat and tyrant, and still I
 would--”
 
-Then madame, with her teeth set, tied a very terrible knot indeed.
+Then madame, with her teeth lineAndTree.set, tied a very terrible knot indeed.
 
 “Hold!” cried Defarge, reddening a little as if he felt charged with
 cowardice; “I too, my dear, will stop at nothing.”
@@ -8372,7 +8372,7 @@ So far as it was possible to comprehend him without overstepping those
 delicate and gradual approaches which Mr. Lorry felt to be the only safe
 advance, he at first supposed that his daughter's marriage had taken
 place yesterday. An incidental allusion, purposely thrown out, to
-the day of the week, and the day of the month, set him thinking and
+the day of the week, and the day of the month, lineAndTree.set him thinking and
 counting, and evidently made him uneasy. In all other respects, however,
 he was so composedly himself, that Mr. Lorry determined to have the aid
 he sought. And that aid was his own.
@@ -9026,7 +9026,7 @@ heads of the crowd, like a kind of lightning, no eye in the throng could
 have told; but, muskets were being distributed--so were cartridges,
 powder, and ball, bars of iron and wood, knives, axes, pikes, every
 weapon that distracted ingenuity could discover or devise. People who
-could lay hold of nothing else, set themselves with bleeding hands to
+could lay hold of nothing else, lineAndTree.set themselves with bleeding hands to
 force stones and bricks out of their places in walls. Every pulse and
 heart in Saint Antoine was on high-fever strain and at high-fever heat.
 Every living creature there held life as of no account, and was demented
@@ -9470,7 +9470,7 @@ the day closed in that the son-in-law of the despatched, another of the
 people's enemies and insulters, was coming into Paris under a guard
 five hundred strong, in cavalry alone. Saint Antoine wrote his crimes
 on flaring sheets of paper, seized him--would have torn him out of the
-breast of an army to bear Foulon company--set his head and heart on
+breast of an army to bear Foulon company--lineAndTree.set his head and heart on
 pikes, and carried the three spoils of the day, in Wolf-procession
 through the streets.
 
@@ -9652,7 +9652,7 @@ with leaves and grass, had been heavy to drag over the many long
 leagues, and his clothes were chafed into holes, as he himself was into
 sores. Stooping down beside him, the road-mender tried to get a peep at
 secret weapons in his breast or where not; but, in vain, for he slept
-with his arms crossed upon him, and set as resolutely as his lips.
+with his arms crossed upon him, and lineAndTree.set as resolutely as his lips.
 Fortified towns with their stockades, guard-houses, gates, trenches, and
 drawbridges, seemed to the mender of roads, to be so much air as against
 this figure. And when he lifted his eyes from it to the horizon and
@@ -9674,7 +9674,7 @@ summit of the hill?”
 “About. Good!”
 
 The mender of roads went home, with the dust going on before him
-according to the set of the wind, and was soon at the fountain,
+according to the lineAndTree.set of the wind, and was soon at the fountain,
 squeezing himself in among the lean kine brought there to drink, and
 appearing even to whisper to them in his whispering to all the village.
 When the village had taken its poor supper, it did not creep to bed,
@@ -9769,7 +9769,7 @@ days--became impatient for an interview with him, and, surrounding his
 house, summoned him to come forth for personal conference. Whereupon,
 Monsieur Gabelle did heavily bar his door, and retire to hold counsel
 with himself. The result of that conference was, that Gabelle again
-withdrew himself to his housetop behind his stack of chimneys; this time
+withdrew himself to his housetop behind his lineAndTree.stack of chimneys; this time
 resolved, if his door were broken in (he was a small Southern man
 of retaliative temperament), to pitch himself head foremost over the
 parapet, and crush a man or two below.
@@ -9861,7 +9861,7 @@ through Temple Bar to read.
 
 On a steaming, misty afternoon, Mr. Lorry sat at his desk, and Charles
 Darnay stood leaning on it, talking with him in a low voice. The
-penitential den once set apart for interviews with the House, was now
+penitential den once lineAndTree.set apart for interviews with the House, was now
 the news-Exchange, and was filled to overflowing. It was within half an
 hour or so of the time of closing.
 
@@ -9913,7 +9913,7 @@ conception of the difficulty with which our business is transacted, and
 of the peril in which our books and papers over yonder are involved. The
 Lord above knows what the compromising consequences would be to numbers
 of people, if some of our documents were seized or destroyed; and they
-might be, at any time, you know, for who can say that Paris is not set
+might be, at any time, you know, for who can say that Paris is not lineAndTree.set
 afire to-day, or sacked to-morrow! Now, a judicious selection from these
 with the least possible delay, and the burying of them, or otherwise
 getting of them out of harm's way, is within the power (without loss of
@@ -10005,7 +10005,7 @@ I think, to everybody now here, and no one can tell me where this
 gentleman is to be found.”
 
 The hands of the clock verging upon the hour of closing the Bank, there
-was a general set of the current of talkers past Mr. Lorry's desk. He
+was a general lineAndTree.set of the current of talkers past Mr. Lorry's desk. He
 held the letter out inquiringly; and Monseigneur looked at it, in the
 person of this plotting and indignant refugee; and Monseigneur looked at
 it in the person of that plotting and indignant refugee; and This, That,
@@ -10021,7 +10021,7 @@ been got out of Paris, legs uppermost and half suffocated, in a load of
 hay--“some years ago.”
 
 “Infected with the new doctrines,” said a third, eyeing the direction
-through his glass in passing; “set himself in opposition to the last
+through his glass in passing; “lineAndTree.set himself in opposition to the last
 Marquis, abandoned the estates when he inherited them, and left them to
 the ruffian herd. They will recompense him now, I hope, as he deserves.”
 
@@ -10374,7 +10374,7 @@ side of him.
 
 The escorted governed his own horse, but a loose line was attached to
 his bridle, the end of which one of the patriots kept girded round his
-wrist. In this state they set forth with the sharp rain driving in their
+wrist. In this state they lineAndTree.set forth with the sharp rain driving in their
 faces: clattering at a heavy dragoon trot over the uneven town pavement,
 and out upon the mire-deep roads. In this state they traversed without
 change, except of horses and pace, all the mire-deep leagues that lay
@@ -10609,7 +10609,7 @@ in worse prisons, before now.”
 “But never by me, Citizen Defarge.”
 
 Defarge glanced darkly at him for answer, and walked on in a steady
-and set silence. The deeper he sank into this silence, the fainter hope
+and lineAndTree.set silence. The deeper he sank into this silence, the fainter hope
 there was--or so Darnay thought--of his softening in any slight degree.
 He, therefore, made haste to say:
 
@@ -10648,7 +10648,7 @@ of a few days. And yet his misgivings were not so dark as, imagined by
 the light of this later time, they would appear. Troubled as the future
 was, it was the unknown future, and in its obscurity there was ignorant
 hope. The horrible massacre, days and nights long, which, within a few
-rounds of the clock, was to set a great mark of blood upon the blessed
+rounds of the clock, was to lineAndTree.set a great mark of blood upon the blessed
 garnering time of harvest, was as far out of his knowledge as if it had
 been a hundred thousand years away. The “sharp female newly-born, and
 called La Guillotine,” was hardly known to him, or to the generality
@@ -10971,7 +10971,7 @@ looked out with him into the courtyard.
 Looked out upon a throng of men and women: not enough in number, or near
 enough, to fill the courtyard: not more than forty or fifty in all. The
 people in possession of the house had let them in at the gate, and they
-had rushed in to work at the grindstone; it had evidently been set up
+had rushed in to work at the grindstone; it had evidently been lineAndTree.set up
 there for their purpose, as in a convenient and retired spot.
 
 But, such awful workers, and such awful work!
@@ -10992,7 +10992,7 @@ fire. The eye could not detect one creature in the group free from
 the smear of blood. Shouldering one another to get next at the
 sharpening-stone, were men stripped to the waist, with the stain all
 over their limbs and bodies; men in all sorts of rags, with the stain
-upon those rags; men devilishly set off with spoils of women's lace
+upon those rags; men devilishly lineAndTree.set off with spoils of women's lace
 and silk and ribbon, with the stain dyeing those trifles through
 and through. Hatchets, knives, bayonets, swords, all brought to be
 sharpened, were all red with it. Some of the hacked swords were tied to
@@ -11365,7 +11365,7 @@ helpful now in restoring the dearest part of herself to her; by the aid
 of Heaven I will do it!” Thus, Doctor Manette. And when Jarvis Lorry saw
 the kindled eyes, the resolute face, the calm strong look and bearing
 of the man whose life always seemed to him to have been stopped, like a
-clock, for so many years, and then set going again with an energy which
+clock, for so many years, and then lineAndTree.set going again with an energy which
 had lain dormant during the cessation of its usefulness, he believed.
 
 Greater things than the Doctor had at that time to contend with, would
@@ -11401,8 +11401,8 @@ natural and right; so, take the lead, my dear friend, and keep it; it
 couldn't be in better hands.”
 
 But, though the Doctor tried hard, and never ceased trying, to get
-Charles Darnay set at liberty, or at least to get him brought to trial,
-the public current of the time set too strong and fast for him. The new
+Charles Darnay lineAndTree.set at liberty, or at least to get him brought to trial,
+the public current of the time lineAndTree.set too strong and fast for him. The new
 era began; the king was tried, doomed, and beheaded; the Republic of
 Liberty, Equality, Fraternity, or Death, declared for victory or death
 against the world in arms; the black flag waved night and day from the
@@ -11680,7 +11680,7 @@ frightened! Not one of them would harm you.”
 “I am not frightened for myself, my father. But when I think of my
 husband, and the mercies of these people--”
 
-“We will set him above their mercies very soon. I left him climbing to
+“We will lineAndTree.set him above their mercies very soon. I left him climbing to
 the window, and I came to tell you. There is no one here to see. You may
 kiss your hand towards that highest shelving roof.”
 
@@ -11870,7 +11870,7 @@ the people moved, that tears immediately rolled down several ferocious
 countenances which had been glaring at the prisoner a moment before, as
 if with impatience to pluck him out into the streets and kill him.
 
-On these few steps of his dangerous way, Charles Darnay had set his foot
+On these few steps of his dangerous way, Charles Darnay had lineAndTree.set his foot
 according to Doctor Manette's reiterated instructions. The same cautious
 counsel directed every step that lay before him, and had prepared every
 inch of his road.
@@ -11905,7 +11905,7 @@ pressure of business imposed on the Tribunal by the multitude of
 enemies of the Republic with which it had to deal, he had been slightly
 overlooked in his prison of the Abbaye--in fact, had rather passed out
 of the Tribunal's patriotic remembrance--until three days ago; when he
-had been summoned before it, and had been set at liberty on the Jury's
+had been summoned before it, and had been lineAndTree.set at liberty on the Jury's
 declaring themselves satisfied that the accusation against him was
 answered, as to himself, by the surrender of the citizen Evremonde,
 called Darnay.
@@ -11928,12 +11928,12 @@ they were ready with their votes if the President were content to
 receive them.
 
 At every vote (the Jurymen voted aloud and individually), the populace
-set up a shout of applause. All the voices were in the prisoner's
+lineAndTree.set up a shout of applause. All the voices were in the prisoner's
 favour, and the President declared him free.
 
 Then, began one of those extraordinary scenes with which the populace
 sometimes gratified their fickleness, or their better impulses towards
-generosity and mercy, or which they regarded as some set-off against
+generosity and mercy, or which they regarded as some lineAndTree.set-off against
 their swollen account of cruel rage. No man can decide now to which of
 these motives such extraordinary scenes were referable; it is probable,
 to a blending of all the three, with the second predominating. No sooner
@@ -12042,7 +12042,7 @@ his real presence and trembled more.
 Her father, cheering her, showed a compassionate superiority to this
 woman's weakness, which was wonderful to see. No garret, no shoemaking,
 no One Hundred and Five, North Tower, now! He had accomplished the task
-he had set himself, his promise was redeemed, he had saved Charles. Let
+he had lineAndTree.set himself, his promise was redeemed, he had saved Charles. Let
 them all lean upon him.
 
 Their housekeeping was of a very frugal kind: not only because that was
@@ -13584,7 +13584,7 @@ captivity, as I saw them all that night.
 
 “On some hay on the ground, with a cushion thrown under his head, lay a
 handsome peasant boy--a boy of not more than seventeen at the most.
-He lay on his back, with his teeth set, his right hand clenched on his
+He lay on his back, with his teeth lineAndTree.set, his right hand clenched on his
 breast, and his glaring eyes looking straight upward. I could not see
 where his wound was, as I kneeled on one knee over him; but, I could see
 that he was dying of a wound from a sharp point.
@@ -13878,7 +13878,7 @@ completed, when I was told that a lady waited, who wished to see me.
 
         *****
 
-“I am growing more and more unequal to the task I have set myself. It is
+“I am growing more and more unequal to the task I have lineAndTree.set myself. It is
 so cold, so dark, my senses are so benumbed, and the gloom upon me is so
 dreadful.
 
@@ -14571,7 +14571,7 @@ their fate. They were in number as the weeks of the year. Fifty-two were
 to roll that afternoon on the life-tide of the city to the boundless
 everlasting sea. Before their cells were quit of them, new occupants
 were appointed; before their blood ran into the blood spilled yesterday,
-the blood that was to mingle with theirs to-morrow was already set
+the blood that was to mingle with theirs to-morrow was already lineAndTree.set
 apart.
 
 Two score and twelve were told off. From the farmer-general of seventy,
@@ -14608,7 +14608,7 @@ enjoyable by the dear ones, depended on his quiet fortitude. So,
 by degrees he calmed into the better state, when he could raise his
 thoughts much higher, and draw comfort down.
 
-Before it had set in dark on the night of his condemnation, he had
+Before it had lineAndTree.set in dark on the night of his condemnation, he had
 travelled thus far on his last way. Being allowed to purchase the means
 of writing, and a light, he sat down to write until such time as the
 prison lamps should be extinguished.
@@ -15498,7 +15498,7 @@ was an English four-poster, they shouldn't loose a splinter of me. No,
 you wicked foreign woman; I am your match.”
 
 Madame Defarge was not likely to follow these idiomatic remarks in
-detail; but, she so far understood them as to perceive that she was set
+detail; but, she so far understood them as to perceive that she was lineAndTree.set
 at naught.
 
 “Woman imbecile and pig-like!” said Madame Defarge, frowning. “I take no
@@ -15926,7 +15926,7 @@ Creating the works from public domain print editions means that no
 one owns a United States copyright in these works, so the Foundation
 (and you!) can copy and distribute it in the United States without
 permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
+lineAndTree.set forth in the General Terms of Use part of this license, apply to
 copying and distributing Project Gutenberg-tm electronic works to
 protect the PROJECT GUTENBERG-tm concept and trademark.  Project
 Gutenberg is a registered trademark, and may not be used if you
@@ -15966,7 +15966,7 @@ all copies of Project Gutenberg-tm electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
 Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
+entity to whom you paid the fee as lineAndTree.set forth in paragraph 1.E.8.
 
 1.B.  “Project Gutenberg” is a registered trademark.  It may only be
 used on or associated in any way with an electronic work by people who
@@ -16026,7 +16026,7 @@ or charges.  If you are redistributing or providing access to a work
 with the phrase “Project Gutenberg” associated with or appearing on the
 work, you must comply either with the requirements of paragraphs 1.E.1
 through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+Project Gutenberg-tm trademark as lineAndTree.set forth in paragraphs 1.E.8 or
 1.E.9.
 
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
@@ -16042,7 +16042,7 @@ work or any other work associated with Project Gutenberg-tm.
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
+prominently displaying the sentence lineAndTree.set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
@@ -16096,11 +16096,11 @@ that
      distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
+electronic work or group of works on different terms than are lineAndTree.set
 forth in this agreement, you must obtain permission in writing from
 both the Project Gutenberg Literary Archive Foundation and Michael
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+Foundation as lineAndTree.set forth in Section 3 below.
 
 1.F.
 
@@ -16142,14 +16142,14 @@ receive the work electronically in lieu of a refund.  If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.F.4.  Except for the limited right of replacement or refund lineAndTree.set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
+If any disclaimer or limitation lineAndTree.set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
 interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
@@ -16219,7 +16219,7 @@ Project Gutenberg-tm depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
+lineAndTree.array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
 
