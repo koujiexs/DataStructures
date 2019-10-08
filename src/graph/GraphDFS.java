@@ -35,6 +35,6 @@ public class GraphDFS {
         Graph g =new Graph("g.txt");
         GraphDFS graphDFS=new GraphDFS(g);
         System.out.println(graphDFS.pre());
-        System.out.println(graphDFS.post);
+        System.out.println(graphDFS.post());
     }
 }
