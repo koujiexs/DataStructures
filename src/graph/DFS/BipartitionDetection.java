@@ -1,6 +1,6 @@
-package graph;
+package graph.DFS;
 
-import java.util.ArrayList;
+import graph.Graph;
 
 public class BipartitionDetection {
     private Graph G;

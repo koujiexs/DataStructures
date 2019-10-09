@@ -1,15 +1,21 @@
-package graph;
+package graph.DFS;
+
+import graph.Graph;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class SingleSourcePath {
+public class Path {
     private Graph G;
     private int s;
+    private int t;
+
     private boolean[] visited;
     private int[] pre;
-    public SingleSourcePath(Graph G,int s){
+    public Path(Graph G, int s,int t){
         G.validateVertex(s);
+        G.validateVertex(t);
+        this.t=t;
         this.s=s;
         this.G=G;
         visited=new boolean[G.V()];
@@ -19,20 +25,24 @@ public class SingleSourcePath {
         }
         dfs(s,s);
     }
-    private void dfs(int v,int parent){
+    private boolean dfs(int v,int parent){
         visited[v]=true;
         pre[v]=parent;
+        if (v==t)
+            return true;
         for (int w:G.adj(v))
             if (!visited[w])
-                dfs(w,v);
+                if(dfs(w,v))
+                    return true;
+        return false;
     }
-    public boolean isConnectedTo(int t){
+    public boolean isConnectedTo(){
         G.validateVertex(t);
         return visited[t];
     }
-    public Iterable<Integer> path(int t){
+    public Iterable<Integer> path(){
         ArrayList<Integer> res=new ArrayList<>();
-        if (!isConnectedTo(t))
+        if (!isConnectedTo())
             return res;
         int cur =t;
         while (cur!=s){
@@ -45,8 +55,7 @@ public class SingleSourcePath {
     }
     public static void main(String[] args) {
         Graph g =new Graph("g.txt");
-        SingleSourcePath sspath=new SingleSourcePath(g,0);
-        System.out.println("0 -> 6 : "+sspath.path(6));
-        System.out.println("0 -> 5 : "+sspath.path(5));
+        Path path=new Path(g,0,6);
+        System.out.println("0 -> 6 : "+path.path());
     }
 }

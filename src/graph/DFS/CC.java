@@ -1,4 +1,6 @@
-package graph;
+package graph.DFS;
+
+import graph.Graph;
 
 import java.util.ArrayList;
 
